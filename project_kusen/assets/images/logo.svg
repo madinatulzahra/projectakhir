@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Wood grain background circle -->
+  <circle cx="24" cy="24" r="22" fill="#3d2b1f"/>
+  <!-- Wood grain lines -->
+  <ellipse cx="24" cy="24" rx="14" ry="18" fill="#5c3317" opacity="0.6"/>
+  <ellipse cx="24" cy="24" rx="9" ry="13" fill="#6b4226" opacity="0.5"/>
+  <ellipse cx="24" cy="24" rx="5" ry="8" fill="#8b4513" opacity="0.4"/>
+  <!-- Door frame icon -->
+  <rect x="14" y="10" width="20" height="28" rx="2" fill="none" stroke="#f5c842" stroke-width="2.2"/>
+  <rect x="17" y="13" width="14" height="22" rx="1.5" fill="#c8956c" opacity="0.25"/>
+  <!-- Door knob -->
+  <circle cx="29" cy="25" r="1.8" fill="#f5c842"/>
+  <!-- Top arch -->
+  <path d="M14 12 Q24 6 34 12" stroke="#f5c842" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
